@@ -53,7 +53,24 @@ Geospatial analysis of homicide patterns across Chicago neighborhoods, examining
 
 ### Stata
 
-*Projects coming soon.*
+#### **[Processing Census Data in Low-Resource Contexts](https://github.com/sys9317/census-data-processing)**
+
+Automated extraction and standardization of government administrative data from non-standard formats. Demonstrates data wrangling techniques essential for development research in contexts where digital infrastructure is still developing.
+
+**Part 1:** Pakistan District Census Data — Automated loop extracts citizenship card data from 135 inconsistently-formatted Excel sheets  
+**Part 2:** Tanzania Student Exam Records — Regex-based extraction of school rankings and individual student performance from HTML strings
+
+| | |
+|---|---|
+| **Tools** | Stata, regex pattern matching, data reshaping |
+| **Data** | Pakistan Bureau of Statistics (2017), Tanzania NECTA Exam Results |
+| **Topics** | Data wrangling, text processing, automation, quality control |
+| **Key Skills** | Loop automation, regex extraction, reshape operations, validation checks |
+
+**Technical highlights:**
+- Processes 135 Excel files in a single script
+- Extracts structured data from unstructured HTML
+- Implements comprehensive data validation
 
 ---
 
