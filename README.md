@@ -39,6 +39,18 @@ Exploratory analysis of capital investment across DC-region counties, examining 
 
 ---
 
+#### **[Chicago Homicide Geography: A Spatial Analysis](https://github.com/sys9317/chicago-homicide-analysis)**
+
+Geospatial analysis of homicide patterns across Chicago neighborhoods, examining arrest rate disparities and socioeconomic correlates using census tract-level data. Combines crime records with Census API data to surface policy-relevant insights.
+
+| | |
+|---|---|
+| **Tools** | R, sf, tidycensus, ggplot2, Census API |
+| **Data** | Chicago PD Crime Data (8M+ records), ACS 2019 |
+| **Topics** | Spatial analysis, public safety, equity in policing, socioeconomic determinants of crime |
+
+---
+
 ### Stata
 
 *Projects coming soon.*
@@ -50,6 +62,11 @@ Exploratory analysis of capital investment across DC-region counties, examining 
 **Georgetown University — McCourt School of Public Policy**
 Master of International Development Policy | Expected 2025
 Specialization: Impact Evaluation & Quantitative Analysis
+
+**Leiden University**
+Bsc International Relations and Organizations
+Specialization: International Development, Political Economy, Quantitative 
+Analysis
 
 ---
 
