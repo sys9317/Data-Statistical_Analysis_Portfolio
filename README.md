@@ -2,7 +2,7 @@
 
 ## About
 
-My name is Yosup, I am a Master of International Development Policy Candidate at Georgetown University (McCourt School), specializing in Impact Evaluation and Quantitative Analysis.
+My name is Yosup. I hold a Master of International Development Policy from Georgetown University (McCourt School of Public Policy), specializing in Impact Evaluation and Quantitative Analysis.
 
 My passion lies in bridging the gap between **raw data** and **actionable policy insights**. I have hands-on experience in managing large-scale **RCTs (Kenya)**, validating firm-level data at the **World Bank**, and applying econometric models to solve development challenges.
 
@@ -77,18 +77,18 @@ Automated extraction and standardization of government administrative data from 
 ## Education
 
 **Georgetown University — McCourt School of Public Policy**
-Master of International Development Policy | Expected 2025
+Master of International Development Policy | Awarded May 2026
 Specialization: Impact Evaluation & Quantitative Analysis
 
 **Leiden University**
-Bsc International Relations and Organizations
-Specialization: International Development, Political Economy, Quantitative 
-Analysis
+BSc International Relations and Organisations | 2024
+Specialization: International Development, Political Economy, Quantitative Analysis
 
 ---
 
 ## Contact
 
 - GitHub: [sys9317](https://github.com/sys9317)
-- LinkedIn: *(add your LinkedIn URL)*
-- Email: *(add your email if you'd like it public)*
+- LinkedIn: [linkedin.com/in/yosupshin0426](https://linkedin.com/in/yosupshin0426)
+- Website: [sys9317.github.io](https://sys9317.github.io)
+- Email: shinys9317@gmail.com
