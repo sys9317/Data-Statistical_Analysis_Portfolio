@@ -27,6 +27,20 @@ This is a repository to show my previous works, quantitative analysis, and track
 
 ### R
 
+**[The U.S. Gender Pay Gap: How Much Survives Controls?](https://github.com/sys9317/pay-equity-wage-gap)**
+
+Wage regression and Oaxaca-Blinder decomposition of the U.S. gender pay gap on 2022 American Community Survey microdata. Estimates how much of the raw gap is accounted for by measurable worker and job characteristics and how much is left unexplained, with an explicit treatment of what the residual can and cannot show.
+
+| | |
+|---|---|
+| **Tools** | R, tidyverse, tidycensus (`get_pums`), sandwich / lmtest (robust SEs), Quarto |
+| **Data** | 2022 ACS 1-year PUMS (civilian workers age 25-54, full-time / full-year) |
+| **Topics** | Labor economics, wage decomposition, weighted least squares, limits of causal inference |
+
+[Rendered report](https://sys9317.github.io/pay-equity-wage-gap/)
+
+---
+
 **[DC Region Capital Flows: Poverty & Investment Patterns](https://github.com/sys9317/dc-capital-flows-analysis)**
 
 Exploratory analysis of capital investment across DC-region counties, examining the relationship between county population, poverty rates, and aggregate investment by racial demographic category.
@@ -36,6 +50,8 @@ Exploratory analysis of capital investment across DC-region counties, examining 
 | **Tools** | R, tidyverse, ggplot2, tigris, sf |
 | **Data** | Urban Data Catalog (2023) |
 | **Topics** | Spatial analysis, demographic equity, capital distribution |
+
+[Rendered report](https://sys9317.github.io/dc-capital-flows-analysis/)
 
 ---
 
@@ -48,6 +64,8 @@ Geospatial analysis of homicide patterns across Chicago neighborhoods, examining
 | **Tools** | R, sf, tidycensus, ggplot2, Census API |
 | **Data** | Chicago PD Crime Data (8M+ records), ACS 2019 |
 | **Topics** | Spatial analysis, public safety, equity in policing, socioeconomic determinants of crime |
+
+[Rendered report](https://sys9317.github.io/chicago-homicide-analysis/)
 
 ---
 
